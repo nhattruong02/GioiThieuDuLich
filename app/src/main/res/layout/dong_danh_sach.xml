@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/imghinhds"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="10dp" />
+
+    <TextView
+        android:id="@+id/tendiadiem"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_toRightOf="@+id/imghinhds"
+        android:text="Tên địa điểm:"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:textSize="15sp" />
+    <TextView
+        android:layout_marginTop="10dp"
+        android:id="@+id/txttendiadiemds"
+        android:layout_toRightOf="@id/tendiadiem"
+        android:textColor="@color/black"
+        android:textSize="15sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <ImageView
+        android:id="@+id/vitri"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txttendiadiemds"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_toRightOf="@+id/imghinhds"
+        android:src="@drawable/icon_vitri"
+        android:textColor="@color/black" />
+
+    <TextView
+        android:id="@+id/txtvitrids"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txttendiadiemds"
+        android:layout_marginTop="10dp"
+        android:layout_toRightOf="@id/vitri"
+        android:textColor="@color/black"
+        android:textSize="15sp" />
+
+    <ImageView
+        android:id="@+id/imgxoa"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="75dp"
+        android:layout_marginRight="5dp"
+        android:background="@drawable/ic_xoa" />
+</RelativeLayout>

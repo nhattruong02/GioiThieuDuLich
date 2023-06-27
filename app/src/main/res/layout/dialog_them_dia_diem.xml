@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <TextView
+        android:padding="20dp"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textColor="#1888E4"
+        android:textSize="30dp"
+        android:text="Thêm Địa Điểm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <ImageButton
+        android:id="@+id/btnthemhinhdd"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:background="@null"
+        android:src="@drawable/camera" />
+    <EditText
+        android:id="@+id/edtthemtendd"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:textSize="30dp"
+        android:hint="Tên địa điểm"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"/>
+    <EditText
+        android:id="@+id/edtthemvitridd"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:textSize="30dp"
+        android:hint="Vị trí"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"/>
+    <EditText
+        android:id="@+id/edtthemmotadd"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:textSize="30dp"
+        android:hint="Mô tả"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"/>
+    <EditText
+        android:id="@+id/edtthemlinkdd"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:textSize="30dp"
+        android:hint="Link video"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"/>
+    <LinearLayout
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:textColor="@color/white"
+            android:id="@+id/btnthemdd"
+            android:layout_marginRight="40dp"
+            android:background="@drawable/custom_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Thêm"/>
+        <Button
+            android:textColor="@color/white"
+            android:id="@+id/btnthoatthem"
+            android:background="@drawable/custom_button"
+            android:text="Thoát"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+</LinearLayout>

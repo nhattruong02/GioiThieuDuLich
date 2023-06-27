@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/rlayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:padding="10dp">
+
+        <LinearLayout
+            android:id="@+id/linearLayoutDK"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:gravity="center"
+                android:shadowDx="0"
+                android:shadowDy="-2"
+                android:shadowRadius="5"
+                android:shadowColor="@color/black"
+                android:text="Đăng ký"
+                android:textColor="@color/black"
+                android:textSize="30dp"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/edttaikhoandk"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:hint="Tài khoản"
+                android:textStyle="bold"
+                android:textSize="22dp" />
+
+            <EditText
+                android:id="@+id/edtmatkhaudk"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginRight="20dp"
+                android:hint="Mật khẩu"
+                android:textStyle="bold"
+                android:textSize="22dp"  />
+
+            <EditText
+                android:id="@+id/edthotendk"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginRight="20dp"
+                android:hint="Họ tên"
+                android:textStyle="bold"
+                android:textSize="22dp"  />
+
+            <EditText
+                android:id="@+id/edtgioitinhdk"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginRight="20dp"
+                android:hint="Giới tính"
+                android:textStyle="bold"
+                android:textSize="22dp" />
+
+            <EditText
+                android:id="@+id/edtnamsinhdk"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginRight="20dp"
+                android:hint="Năm sinh"
+                android:textStyle="bold"
+                android:textSize="22dp"  />
+
+            <EditText
+                android:id="@+id/edtsdtdk"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginRight="20dp"
+                android:hint="Số điện thoại"
+                android:textStyle="bold"
+                android:textSize="22dp"  />
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:layout_weight="3"
+                android:gravity="center">
+
+                <Button
+                    android:id="@+id/btndangkytk"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/bg_ui"
+                    android:text="Đăng ký"
+                    android:layout_marginRight="10dp"
+                    android:layout_weight="1"
+                    android:textColor="@color/white" />
+
+                <Button
+                    android:id="@+id/btnthoatdk"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/bg_ui"
+                    android:text="Thoát"
+                    android:layout_marginRight="10dp"
+                    android:layout_weight="1"
+                    android:textColor="@color/white" />
+                <Button
+                    android:id="@+id/btnnhaplai"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/bg_ui"
+                    android:text="Nhập lại"
+                    android:layout_weight="1"
+                    android:textColor="@color/white" />
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+</RelativeLayout>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/App_gioi_thieu_du_lich/app/src/main/res/drawable-v24/camera.xml" value="0.1725" />
+        <entry key="..\:/App_gioi_thieu_du_lich/app/src/main/res/drawable-v24/iconadd.xml" value="0.1725" />
+        <entry key="..\:/App_gioi_thieu_du_lich/app/src/main/res/drawable/bg_ui.xml" value="0.1725" />
+        <entry key="..\:/App_gioi_thieu_du_lich/app/src/main/res/drawable/circle.xml" value="0.1725" />
+        <entry key="..\:/App_gioi_thieu_du_lich/app/src/main/res/drawable/circle2.xml" value="0.1725" />
+        <entry key="..\:/App_gioi_thieu_du_lich/app/src/main/res/drawable/custom_button.xml" value="0.1725" />
+        <entry key="..\:/App_gioi_thieu_du_lich/app/src/main/res/drawable/custom_textview.xml" value="0.1725" />
+        <entry key="..\:/App_gioi_thieu_du_lich/app/src/main/res/drawable/icon_vitri.xml" value="0.169" />
+        <entry key="..\:/App_gioi_thieu_du_lich/app/src/main/res/layout/activity_giaodien_admin.xml" value="0.20416666666666666" />
+        <entry key="..\:/App_gioi_thieu_du_lich/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/App_gioi_thieu_du_lich/app/src/main/res/layout/activity_quanlydiadiem_dao.xml" value="0.19947916666666668" />
+        <entry key="..\:/App_gioi_thieu_du_lich/app/src/main/res/layout/activity_quanlytinh_dao.xml" value="0.20416666666666666" />
+        <entry key="..\:/App_gioi_thieu_du_lich/app/src/main/res/layout/dialog_sua_dia_diem.xml" value="0.19947916666666668" />
+        <entry key="..\:/App_gioi_thieu_du_lich/app/src/main/res/layout/dialog_sua_tinh.xml" value="0.20416666666666666" />
+        <entry key="..\:/App_gioi_thieu_du_lich/app/src/main/res/layout/dialog_them_dia_diem.xml" value="0.19947916666666668" />
+        <entry key="..\:/App_gioi_thieu_du_lich/app/src/main/res/layout/dialog_them_tinh.xml" value="0.20416666666666666" />
+        <entry key="..\:/App_gioi_thieu_du_lich/app/src/main/res/layout/dong_danh_sach.xml" value="0.20416666666666666" />
+        <entry key="..\:/App_gioi_thieu_du_lich/app/src/main/res/layout/dong_dia_diem.xml" value="0.20416666666666666" />
+        <entry key="..\:/App_gioi_thieu_du_lich/app/src/main/res/layout/dong_tinh.xml" value="0.20416666666666666" />
+        <entry key="..\:/App_gioi_thieu_du_lich/app/src/main/res/layout/giao_dien_admin.xml" value="0.25" />
+        <entry key="..\:/App_gioi_thieu_du_lich/app/src/main/res/layout/layout_chi_tiet_dia_diem.xml" value="0.20416666666666666" />
+        <entry key="..\:/App_gioi_thieu_du_lich/app/src/main/res/layout/layout_dang_nhap.xml" value="0.20416666666666666" />
+        <entry key="..\:/App_gioi_thieu_du_lich/app/src/main/res/layout/layout_danh_sach.xml" value="0.20416666666666666" />
+        <entry key="..\:/App_gioi_thieu_du_lich/app/src/main/res/layout/layout_dia_diem.xml" value="0.20416666666666666" />
+        <entry key="..\:/App_gioi_thieu_du_lich/app/src/main/res/layout/layout_tinh.xml" value="0.20416666666666666" />
+        <entry key="..\:/App_gioi_thieu_du_lich/app/src/main/res/layout/layout_xem_video.xml" value="0.20416666666666666" />
+        <entry key="..\:/App_gioi_thieu_du_lich/app/src/main/res/menu/menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/App_gioi_thieu_du_lich/app/src/main/res/menu/menu_1.xml" value="0.20416666666666666" />
+        <entry key="..\:/App_gioi_thieu_du_lich/app/src/main/res/menu/menu_2.xml" value="0.19947916666666668" />
+        <entry key="..\:/App_gioi_thieu_du_lich/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1725" />
+        <entry key="..\:/a ki 1 n3/Project Android/App_gioi_thieu_du_lich/app/src/main/res/drawable-v24/custom_button.xml" value="0.1665" />
+        <entry key="..\:/a ki 1 n3/Project Android/App_gioi_thieu_du_lich/app/src/main/res/drawable-v24/edit_text.xml" value="0.1665" />
+        <entry key="..\:/a ki 1 n3/Project Android/App_gioi_thieu_du_lich/app/src/main/res/drawable/custom_button.xml" value="0.1665" />
+        <entry key="..\:/a ki 1 n3/Project Android/App_gioi_thieu_du_lich/app/src/main/res/drawable/ic_baseline_room_24.xml" value="0.1665" />
+        <entry key="..\:/a ki 1 n3/Project Android/App_gioi_thieu_du_lich/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1665" />
+        <entry key="..\:/a ki 1 n3/Project Android/App_gioi_thieu_du_lich/app/src/main/res/drawable/icon_search.xml" value="0.1665" />
+        <entry key="..\:/a ki 1 n3/Project Android/App_gioi_thieu_du_lich/app/src/main/res/drawable/icon_vitri.xml" value="0.1665" />
+        <entry key="..\:/a ki 1 n3/Project Android/App_gioi_thieu_du_lich/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/a ki 1 n3/Project Android/App_gioi_thieu_du_lich/app/src/main/res/layout/dong_chi_tiet_dia_diem.xml" value="0.2" />
+        <entry key="..\:/a ki 1 n3/Project Android/App_gioi_thieu_du_lich/app/src/main/res/layout/dong_danh_sach.xml" value="0.17760416666666667" />
+        <entry key="..\:/a ki 1 n3/Project Android/App_gioi_thieu_du_lich/app/src/main/res/layout/dong_dia_diem.xml" value="0.22" />
+        <entry key="..\:/a ki 1 n3/Project Android/App_gioi_thieu_du_lich/app/src/main/res/layout/dong_tinh.xml" value="0.17864583333333334" />
+        <entry key="..\:/a ki 1 n3/Project Android/App_gioi_thieu_du_lich/app/src/main/res/layout/layout_chi_tiet_dia_diem.xml" value="0.1" />
+        <entry key="..\:/a ki 1 n3/Project Android/App_gioi_thieu_du_lich/app/src/main/res/layout/layout_dang_ky.xml" value="0.17760416666666667" />
+        <entry key="..\:/a ki 1 n3/Project Android/App_gioi_thieu_du_lich/app/src/main/res/layout/layout_dang_nhap.xml" value="0.22" />
+        <entry key="..\:/a ki 1 n3/Project Android/App_gioi_thieu_du_lich/app/src/main/res/layout/layout_danh_sach.xml" value="0.17864583333333334" />
+        <entry key="..\:/a ki 1 n3/Project Android/App_gioi_thieu_du_lich/app/src/main/res/layout/layout_dia_diem.xml" value="0.17864583333333334" />
+        <entry key="..\:/a ki 1 n3/Project Android/App_gioi_thieu_du_lich/app/src/main/res/layout/layout_tinh.xml" value="0.17760416666666667" />
+        <entry key="..\:/a ki 1 n3/Project Android/App_gioi_thieu_du_lich/app/src/main/res/layout/layout_xem_video.xml" value="0.17864583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
